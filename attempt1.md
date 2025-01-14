@@ -22,3 +22,15 @@ An automated analysis of your completed exam shows the three lowest scoring topi
 Minimize Microservice Vulnerabilities
 Cluster Setup
 Supply Chain Security
+
+
+- set kd
+- set kn and kx
+- set dry run
+
+
+- check how you can eaily update the secreet using kubectl
+- check the clusterrole bidning and rolebinding
+- learn network policies
+- audit log read about the policy and configurtion
+
