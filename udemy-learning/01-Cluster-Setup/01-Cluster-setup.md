@@ -19,4 +19,10 @@
 
 - using these keys to encryp the communication between client and server
 
+## Access Control
 
+- Auth --> Athen --> Admission Controller --> create object
+
+## API server token auth
+
+- shouldn't be using Token auth for api server
