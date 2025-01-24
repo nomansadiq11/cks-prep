@@ -31,4 +31,11 @@
 - checkov can perform the static analysis
 - you can see, shouldn't be using root user
 - host filesystem shouldn't be mount
--
+- check the dockerfile and yaml files see the security context
+- earch step is layer in dockerfile be careful when you performing some cred related tasks
+
+
+## Commands
+
+- kube-bench run --targets master --check 1.3.2
+- trivy image {image name}

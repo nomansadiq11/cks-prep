@@ -69,3 +69,8 @@
 - if outbound not allowed but stateful of the request will works
 - we can add netpol to specfic the pods by using the labels
 - allow from ns and specfic role, label the namespace
+
+## Commands
+
+- aa-status {get the status of the apparmor}
+- apparmor_parser {profile name} - configure the profile to app armor 
