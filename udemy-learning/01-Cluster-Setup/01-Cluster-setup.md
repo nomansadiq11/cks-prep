@@ -26,3 +26,9 @@
 ## API server token auth
 
 - shouldn't be using Token auth for api server
+
+## Taint and Toleration
+
+- you can taint the node by adding taint to node
+- key=value:NoSchedule, PreferNoSchedule, NoExecuate
+- remove the taint just add hypen like key=value:NoSchedule-
